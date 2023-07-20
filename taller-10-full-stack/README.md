@@ -8,6 +8,7 @@
 <img src="./public/images/punto 1.png" alt="Punto 1">
 
 <h2> Punto 2: Suma de constante y variable</h2>
+<img src="./public/images/punto 2.png" alt="Punto 2">
 
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
 
