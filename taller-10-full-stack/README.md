@@ -11,6 +11,7 @@
 <img src="./public/images/punto 2.png" alt="Punto 2">
 
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
+<img src="./public/images/punto 3.png" alt="Punto 3">
 
 <h2> Punto 4: Nombre y apellido del usuario</h2>
 
