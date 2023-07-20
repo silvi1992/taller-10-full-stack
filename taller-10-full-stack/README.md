@@ -29,6 +29,7 @@
 <img src="./public/images/punto 8.png" alt="Punto 8">
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
+<img src="./public/images/punto 9.png" alt="Punto 9">
 
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
 
