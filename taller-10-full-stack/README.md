@@ -32,6 +32,7 @@
 <img src="./public/images/punto 9.png" alt="Punto 9">
 
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
+<img src="./public/images/punto 10.png" alt="Punto 10">
 
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
 
