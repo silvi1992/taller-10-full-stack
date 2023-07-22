@@ -43,5 +43,6 @@
 <img src="./public/images/punto 13.png" alt="Punto 13">
 
 <h2> Punto 14: Revisión de contraseña</h2>
+<img src="./public/images/punto 14.png" alt="Punto 14">
 
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
